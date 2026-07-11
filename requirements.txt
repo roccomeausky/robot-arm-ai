@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pyserial
+SpeechRecognition
+openai-whisper
+sounddevice
+groq
+edge-tts
+playsound==1.2.2
+pyttsx3
